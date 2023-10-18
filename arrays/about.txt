@@ -1,1 +1,3 @@
-array_first.txt and array_second.txt is for var10;
+array_first.txt and array_second.txt - var10;
+arr2.txt - var11;
+city_list.txt - var 14;
