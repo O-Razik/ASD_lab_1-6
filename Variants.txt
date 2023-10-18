@@ -1,0 +1,5 @@
+Var10. Form a new array that includes all even numbers from the first and odd numbers from the second array by combining two one-dimensional arrays of integers. Sort the resulting array in ascending order.
+Var11. A two-dimensional array of real numbers is given. Replace the maximum elements of each row with 3^√x. The rows of the array should be arranged in ascending order of their first element.
+Var12. A one-dimensional array of real numbers is given. Sort the elements after the maximum element in descending order.
+Var13. Given a one-dimensional array of integers. Remove elements that are multiples of three from the array, and apply the x^3 function to all other elements of the array. Sort the resulting array in descending order.
+Var14. The list of cities is given. Alphabetize only those cities whose names are no longer than 8.
